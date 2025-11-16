@@ -9,3 +9,7 @@ const b = ()=>{
 const c = ()=>{
     console.log("cccc")
 }
+
+const d = ()=>{
+    alert("ddd")
+}
